@@ -1,4 +1,4 @@
-## Hi, I'm Victor 😀
+## Hi, I'm Victor 😀 :wave:
 
 * Currently working mainly on [torchlensmaker](https://github.com/fouronnes/torchlensmaker), a Python library for designing optical systems
 * [Recurse Center](https://www.recurse.com/) alumni W1'24
