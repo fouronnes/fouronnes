@@ -1,6 +1,7 @@
 ## Hi, I'm Victor 😀
 
 * Currently working mainly on [torchlensmaker](https://github.com/fouronnes/torchlensmaker), a Python library for designing optical systems
+* @recursecenter alumni W1'24
 
 <!--
 **fouronnes/fouronnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
