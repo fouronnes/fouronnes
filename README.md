@@ -1,6 +1,6 @@
 ## Hi, I'm Victor 😀
 
-* Currently working mainly on https://github.com/fouronnes/torchlensmaker
+* Currently working mainly on [torchlensmaker](https://github.com/fouronnes/torchlensmaker), a Python library for designing optical systems
 
 <!--
 **fouronnes/fouronnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
