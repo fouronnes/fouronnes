@@ -3,6 +3,8 @@
 * Currently working mainly on [torchlensmaker](https://github.com/fouronnes/torchlensmaker), a Python library for designing optical systems
 * [Recurse Center](https://www.recurse.com/) alumni W1'24
 
+For more, check out [my blog](https://victorpoughon.fr/).
+
 <!--
 **fouronnes/fouronnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
